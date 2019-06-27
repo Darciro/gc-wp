@@ -1,0 +1,299 @@
+# Translation of Plugins - The Events Calendar Shortcode - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - The Events Calendar Shortcode - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-20 02:39:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - The Events Calendar Shortcode - Stable (latest release)\n"
+
+#: templates/admin-page.php:75
+msgid "You can also use this to order by title if you wish:"
+msgstr "Você também pode usar isso para ordenar por título, se quiser:"
+
+#. Author URI of the plugin/theme
+msgid "https://eventcalendarnewsletter.com/the-events-calendar-shortcode"
+msgstr "https://eventcalendarnewsletter.com/the-events-calendar-shortcode"
+
+#: the-events-calendar-shortcode.php:94
+msgid "To begin using %s, please install the latest version of %s%s%s and add an event."
+msgstr "Para usar o %s, instale a última versão do %s%s%s e adicione um evento."
+
+#: templates/admin-page.php:48
+msgid "You can use 2 other attributes: %s and %s to customize the thumbnail size"
+msgstr "Você pode usar 2 outros atributos: %s e %s para personalizar o tamanho da miniatura"
+
+#: templates/admin-page.php:109
+msgid "Pro version horizontal/columns/photos design example"
+msgstr "Exemplo de design horizontal/colunas/fotos da versão Pro"
+
+#: templates/admin-page.php:123
+msgid "Show only events marked as \"featured\""
+msgstr "Mostrar apenas eventos marcados como \"destacados\""
+
+#: templates/admin-page.php:122
+msgid "Featured"
+msgstr "Em destaque"
+
+#: templates/admin-page.php:104
+msgid "Check out %sThe Events Calendar Shortcode PRO%s. Some examples of the designs:"
+msgstr "Conheça o %sThe Events Calendar Shortcode PRO%s. Veja alguns exemplos dos designs:"
+
+#: templates/admin-page.php:93
+msgid "(if featured)"
+msgstr "(se estiver em destaque)"
+
+#: templates/admin-page.php:135
+msgid "Only show events in the future even when using the month or year option."
+msgstr "Exibe somente eventos no futuro, mesmo quando estiver usando a opção mês ou ano."
+
+#: templates/admin-page.php:134
+msgid "Future Only"
+msgstr "Apenas futuros"
+
+#: templates/admin-page.php:125
+msgid "Add an easy to see button link to your event, and customize the colors/text"
+msgstr "Adiciona um botão fácil de ver apontando para o seu evento,e personaliza as cores e texto."
+
+#: templates/admin-page.php:124
+msgid "Button"
+msgstr "Botão"
+
+#: templates/admin-page.php:119
+msgid "Display events by city, state/province, or country"
+msgstr "Exibe eventos por cidade, estado/provincia e país"
+
+#: templates/admin-page.php:118
+msgid "Location"
+msgstr "Localização"
+
+#: templates/admin-page.php:108
+msgid "Pro version calendar design example"
+msgstr "Exemplo de design do calendário na versão Pro"
+
+#: templates/admin-page.php:73
+msgid "Used to order by the end date instead of the start date."
+msgstr "Usado para ordenar pela data final do evento em vez da inicial."
+
+#: templates/admin-page.php:70
+msgid "Use to hide events when the start date has passed, rather than the end date.  Will also change the order of events by start date instead of end date."
+msgstr "Use para ocultar eventos quando a data inícial já passou, em vez da data final. Também mudará a ordem dos eventos para data inicial em vez da final."
+
+#: templates/admin-page.php:64
+msgid "Show only specific Month. Type '%s' for displaying current month only or '%s' for next month, ie:"
+msgstr "Exibe apenas um mês específico. Digite '%s' para exibir apenas o mes atual ou '%s' para o próximo mês. Ex:"
+
+#: templates/admin-page.php:57 the-events-calendar-shortcode.php:376
+msgid "View All %s"
+msgstr "Ver todos os %s"
+
+#: templates/admin-page.php:127
+msgid "Show only events for a specific day (ie. 2017-04-16), great for conferences"
+msgstr "Exibe apenas os eventos de um dia específico (ex: 2017-04-16), ótimo para conferências"
+
+#: templates/admin-page.php:126
+msgid "Date"
+msgstr "Data"
+
+#: templates/admin-page.php:110
+msgid "Pro version grouped design example"
+msgstr "Exemplo de design agrupado da versão Pro"
+
+#: templates/admin-page.php:50
+msgid "or use %s to specify the pre-set size to use, for example:"
+msgstr "ou use %s para definir o tamanho predefinido a ser usado, ex.:"
+
+#. Author of the plugin/theme
+msgid "Event Calendar Newsletter"
+msgstr "Event Calendar Newsletter"
+
+#. Description of the plugin/theme
+msgid "An addon to add shortcode functionality for <a href=\"http://wordpress.org/plugins/the-events-calendar/\">The Events Calendar Plugin by Modern Tribe</a>."
+msgstr "Um complemento para adicionar recursos de shortcode ao plugin <a href=\"http://wordpress.org/plugins/the-events-calendar/\">The Events Calendar da Modern Tribe </a>."
+
+#. Plugin URI of the plugin/theme
+msgid "https://eventcalendarnewsletter.com/the-events-calendar-shortcode/"
+msgstr "https://eventcalendarnewsletter.com/the-events-calendar-shortcode/"
+
+#: the-events-calendar-shortcode.php:353
+msgid "at"
+msgstr "às"
+
+#: the-events-calendar-shortcode.php:135
+msgid "Upgrade"
+msgstr "Versão PRO"
+
+#: the-events-calendar-shortcode.php:134
+msgid "Settings"
+msgstr "Configurações"
+
+#: the-events-calendar-shortcode.php:103 the-events-calendar-shortcode.php:104
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: the-events-calendar-shortcode.php:93
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+#: templates/admin-page.php:146
+msgid "This plugin is not developed by or affiliated with The Events Calendar or %s in any way."
+msgstr "Este plugin não foi desenvolvido nem está afiliado ao The Events Calendar ou à %s de qualquer forma."
+
+#: templates/admin-page.php:138
+msgid "%sGet The Events Calendar Shortcode PRO%s"
+msgstr "%sObter o The Events Calendar Shortcode PRO%s"
+
+#: templates/admin-page.php:137
+msgid "Use the new default or compact designs, or create your own using one or more templates in your theme folder"
+msgstr "Use os novos designs: padrão ou compacto, ou crie o seu próprio usando um ou mais modelos na pasta do seu tema"
+
+#: templates/admin-page.php:136
+msgid "Custom Design"
+msgstr "Design personalizado"
+
+#: templates/admin-page.php:133
+msgid "Use the full description instead of the excerpt (short description) of an event in the listing"
+msgstr "Usar a descrição completa ao invés do resumo (descrição curta) de um evento no anúncio"
+
+#: templates/admin-page.php:132
+msgid "Full Description"
+msgstr "Descrição completa"
+
+#: templates/admin-page.php:131
+msgid "Skip a certain number of events from the beginning, useful for using multiple shortcodes on the same page or splitting into columns."
+msgstr "Ignore um certo número de eventos a partir do começo, útil para usar vários shortcodes na mesma página ou dividir em colunas."
+
+#: templates/admin-page.php:130
+msgid "Offset"
+msgstr "Ignorar"
+
+#: templates/admin-page.php:129
+msgid "Show only events for a specific year"
+msgstr "Exibe apenas os eventos de um determinado ano"
+
+#: templates/admin-page.php:128
+msgid "Year"
+msgstr "Ano"
+
+#: templates/admin-page.php:121
+msgid "List the details of a single event by ID, for example on a blog post"
+msgstr "Listar os detalhes de um único evento pelo ID, por exemplo, num post do blog"
+
+#: templates/admin-page.php:120
+msgid "Single Event"
+msgstr "Evento único"
+
+#: templates/admin-page.php:117
+msgid "Filter events listed by one or more tags"
+msgstr "Filtrar eventos listados por uma ou mais tags"
+
+#: templates/admin-page.php:116
+msgid "Tag"
+msgstr "Tag"
+
+#: templates/admin-page.php:115
+msgid "Choose how many days to show events from, ie. 1 day or a week"
+msgstr "Escolha a quantidade de dias desde quando vai exibir os eventos, ex: 1 dia ou uma semana"
+
+#: templates/admin-page.php:114
+msgid "Number of days"
+msgstr "Número de dias"
+
+#: templates/admin-page.php:113
+msgid "In addition to designs, you'll get more options including:"
+msgstr "Além dos designs você terá mais opções, incluindo:"
+
+#: templates/admin-page.php:107
+msgid "Pro version compact design example"
+msgstr "Exemplo de design compacto da versão Pro"
+
+#: templates/admin-page.php:106
+msgid "Pro version default design example"
+msgstr "Exemplo do design padrão da versão Pro"
+
+#: templates/admin-page.php:103
+msgid "Want a better looking design without adding any CSS?"
+msgstr "Quer um design melhor sem adicionar qualquer CSS?"
+
+#: templates/admin-page.php:96
+msgid "venue class is %s"
+msgstr "a classe do local é %s"
+
+#: templates/admin-page.php:95
+msgid "date class is %s"
+msgstr "a classe da data é %s"
+
+#: templates/admin-page.php:94
+msgid "event title link is %s"
+msgstr "o link do título do evento é %s"
+
+#: templates/admin-page.php:89
+msgid "By default the plugin does not include styling. Events are listed in ul li tags with appropriate classes for styling and you can add your own CSS:"
+msgstr "Por padrão o plugin não inclui nenhum estilo. Os eventos são listados em tags ul li com classes apropriadas para estilizar e você pode adicionar seu próprio CSS:"
+
+#: templates/admin-page.php:67
+msgid "Show outdated events (ie. events that have already happened)"
+msgstr "Exibe eventos desatualizados (ex: eventos que já aconteceram)"
+
+#: templates/admin-page.php:61
+msgid "Manage the order of content with commas. Defaults to %s"
+msgstr "Gerencie a ordem do conteúdo com vírgulas. O padrão é %s"
+
+#: templates/admin-page.php:57
+msgid "Determines whether to show '%s' or not. Values can be 'true' or 'false'. Default to 'true'"
+msgstr "Determina se exibe '%s' ou não. Os valores podem ser 'true' ou 'false'. O padrão é 'true'"
+
+#: templates/admin-page.php:54
+msgid "Message to show when there are no events. Defaults to '%s'"
+msgstr "Mensagem a ser exibida quando não houverem eventos. O padrão é '%s'"
+
+#: templates/admin-page.php:46
+msgid "To show or hide thumbnail/featured image. Default is false."
+msgstr "Para exibir ou ocultar a miniatura/imagem destacada. O padrão é false."
+
+#: templates/admin-page.php:42
+msgid "To show or hide the excerpt and set excerpt length. Default is false."
+msgstr "Para exibir ou ocultar o resumo e definir o tamanho do resumo. O padrão é false."
+
+#: templates/admin-page.php:39
+msgid "To show or hide the venue. Value can be 'true' or 'false'. Default is false."
+msgstr "Para exibir ou ocultar o local. O valor pode ser 'true' ou 'false'. O padrão é false."
+
+#: templates/admin-page.php:36
+msgid "To show or hide date. Value can be 'true' or 'false'. Default is true."
+msgstr "Para exibir ou ocultar a data. O valor pode ser 'true' ou 'false'. O padrão é true."
+
+#: templates/admin-page.php:33
+msgid "Order of the events to be shown. Value can be 'ASC' or 'DESC'. Default is 'ASC'. Order is based on event date."
+msgstr "Ordem de exibição dos eventos. O valor pode ser 'ASC' ou 'DESC'. O padrão é 'ASC'. A ordem se baseia na data do evento."
+
+#: templates/admin-page.php:30
+msgid "Total number of events to show. Default is 5."
+msgstr "Número total de eventos a exibir. O padrão é 5."
+
+#: templates/admin-page.php:23
+msgid "Represents single event category.  Use commas when you want multiple categories"
+msgstr "Representa uma única categoria de evento.  Quando quiser usar várias categorias, separe-as com vírgulas."
+
+#: templates/admin-page.php:19
+msgid "Shortcode Options"
+msgstr "Opções do shortcode"
+
+#: templates/admin-page.php:16
+msgid "Basic shortcode"
+msgstr "Shortcode básico"
+
+#: templates/admin-page.php:4
+msgid "The shortcode displays lists of your events. For example the shortcode to show next 8 events in the category \"%s\" in ASC order with date showing:"
+msgstr "O shortcode mostra listas de seus eventos. Por exemplo, o shortcode para exibir os próximos 8 eventos na categoria \"%s\", em ordem ASC exibindo a data:"
+
+#. #-#-#-#-#  the-events-calendar-shortcode-code.pot (The Events Calendar
+#. Shortcode 1.9)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: templates/admin-page.php:2
+msgid "The Events Calendar Shortcode"
+msgstr "The Events Calendar Shortcode"

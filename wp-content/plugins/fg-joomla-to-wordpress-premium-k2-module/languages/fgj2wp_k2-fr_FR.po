@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Joomla to WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-04 19:19+0200\n"
+"PO-Revision-Date: 2018-06-04 19:20+0200\n"
+"Last-Translator: F. GILLES\n"
+"Language-Team: F. GILLES\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fgj2wp-k2.php:46
+msgid ""
+"The K2 module needs the «FG Joomla to WordPress Premium» plugin to work. "
+"Please install and activate <strong>FG Joomla to WordPress Premium</strong>."
+msgstr ""
+"Le module K2 requiert le plugin «FG Joomla to WordPress Premium» pour "
+"fonctionner. Merci d'installer et d'activer <strong>FG Joomla to WordPress "
+"Premium</strong>."
+
+#: fgj2wp-k2.php:53
+#, php-format
+msgid ""
+"The K2 module needs at least the <strong>version %s</strong> of the «FG "
+"Joomla to WordPress Premium» plugin to work. Please install and activate "
+"<strong>FG Joomla to WordPress Premium</strong> at least the <strong>version "
+"%s</strong>."
+msgstr ""
+"Le module K2 requiert au moins la <strong>version %s</strong> du plugin «FG "
+"Joomla to WordPress Premium» pour fonctionner. Merci d'installer et "
+"d'activer <strong>FG Joomla to WordPress Premium</strong> au moins la "
+"<strong>version %s</strong>."
+
+#: fgj2wp-k2.php:147
+msgid "+ K2 module"
+msgstr "+ module K2"
+
+#: fgj2wp-k2.php:148
+msgid ""
+"The K2 module will also import K2 content (items, categories, comments, "
+"tags, images, videos, attachments and custom fields)."
+msgstr ""
+"Le module K2 va aussi importer le contenu K2 (éléments, catégories, "
+"commentaires, étiquettes, images, vidéos, pièces jointes et champs "
+"supplémentaires)."
+
+#: fgj2wp-k2.php:163
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d commentaire"
+msgstr[1] "%d commentaires"
+
+#: fgj2wp-k2.php:173
+msgid "K2 items:"
+msgstr "Éléments K2 :"
+
+#: fgj2wp-k2.php:174
+msgid "Import the K2 items as posts"
+msgstr "Importer les éléments K2 en tant qu'articles"
+
+#: fgj2wp-k2.php:175
+msgid "Import the K2 items as pages"
+msgstr "Importer les éléments K2 en tant que pages"
+
+#: fgj2wp-k2.php:178
+msgid "K2 images:"
+msgstr "Images K2 :"
+
+#: fgj2wp-k2.php:179
+msgid "Import the K2 images in the content + as featured images"
+msgstr "Importer les images K2 dans le contenu + en tant qu'images à la une"
+
+#: fgj2wp-k2.php:180
+msgid "Import the K2 images as featured images only"
+msgstr "Importer les images K2 en tant qu'images à la une seulement"
+
+#: fgj2wp-k2.php:183
+msgid "K2 video and gallery:"
+msgstr "Vidéo et galerie K2 :"
+
+#: fgj2wp-k2.php:184
+msgid "Top"
+msgstr "En haut de l'article"
+
+#: fgj2wp-k2.php:185
+msgid "Bottom"
+msgstr "En bas de l'article"
+
+#: fgj2wp-k2.php:188
+msgid "K2 extra fields:"
+msgstr "Champs supplémentaires K2 :"
+
+#: fgj2wp-k2.php:189
+msgid "As regular WordPress custom fields"
+msgstr "Comme champs personnalisés de WordPress"
+
+#: fgj2wp-k2.php:190
+msgid "As ACF custom fields"
+msgstr "Comme champs personnalisés ACF"
+
+#: fgj2wp-k2.php:190 fgj2wp-k2.php:191
+#, php-format
+msgid "the %s plugin is required."
+msgstr "Le plugin %s est nécessaire."
+
+#: fgj2wp-k2.php:191
+msgid "As Toolset Types custom fields"
+msgstr "Comme champs personnalisés Toolset Types"
+
+#: fgj2wp-k2.php:194
+msgid "K2 SEO:"
+msgstr "K2 SEO :"
+
+#: fgj2wp-k2.php:195
+msgid ""
+"Keep the K2 items IDs. <sub>Note that the Joomla articles IDs won't be kept."
+"</sub>"
+msgstr ""
+"Garder les IDs des éléments K2. <sub>Notez que les IDs des articles Joomla "
+"ne seront pas gardés.</sub>"
+
+#: fgj2wp-k2.php:196
+msgid "Redirect the K2 URLs"
+msgstr "Rediriger les URL de K2"
+
+#: fgj2wp-k2.php:197
+msgid ""
+"Redirect the K2 advanced SEF URLs. <sub>Note that the Joomla articles URLs "
+"won't be redirected.</sub>"
+msgstr ""
+"Rediriger les URLs SEF avancées de K2. <sub>Notez que les URLs des articles "
+"de Joomla ne seront pas redirigées.</sub>"
+
+#: fgj2wp-k2.php:239
+#, php-format
+msgid "%d K2 category"
+msgid_plural "%d K2 categories"
+msgstr[0] "%d catégorie K2"
+msgstr[1] "%d catégories K2"
+
+#: fgj2wp-k2.php:243
+#, php-format
+msgid "%d K2 item"
+msgid_plural "%d K2 items"
+msgstr[0] "%d élément K2"
+msgstr[1] "%d éléments K2"
+
+#: fgj2wp-k2.php:247
+#, php-format
+msgid "%d K2 comment"
+msgid_plural "%d K2 comments"
+msgstr[0] "%d commentaire K2"
+msgstr[1] "%d commentaires K2"
+
+#: fgj2wp-k2.php:338
+#, php-format
+msgid "%d K2 category imported"
+msgid_plural "%d K2 categories imported"
+msgstr[0] "%d catégorie K2 importée"
+msgstr[1] "%d catégories K2 importées"
+
+#: fgj2wp-k2.php:408
+msgid "Importing K2 items..."
+msgstr "Import des éléments K2..."
+
+#: fgj2wp-k2.php:575
+#, php-format
+msgid "%d K2 item imported"
+msgid_plural "%d K2 items imported"
+msgstr[0] "%d élément K2 importé"
+msgstr[1] "%d éléments K2 importés"
+
+#: fgj2wp-k2.php:721
+#, php-format
+msgid "%d K2 tag imported"
+msgid_plural "%d K2 tags imported"
+msgstr[0] "%d étiquette K2 importée"
+msgstr[1] "%d étiquettes K2 importées"
+
+#: fgj2wp-k2.php:781
+#, php-format
+msgid "%d K2 comment imported"
+msgid_plural "%d K2 comments imported"
+msgstr[0] "%d commentaire K2 importé"
+msgstr[1] "%d commentaires K2 importés"
+
+#: fgj2wp-k2.php:903
+#, php-format
+msgid "%d K2 media imported"
+msgid_plural "%d K2 media imported"
+msgstr[0] "%d média K2 importé"
+msgstr[1] "%d médias K2 importés"
+
+#: fgj2wp-k2.php:1977
+msgid "This field is required."
+msgstr "Ce champ est obligatoire."
+
+#~ msgid "ACF custom fields"
+#~ msgstr "Champs personnalisés ACF"
+
+#~ msgid "%d K2 item processed"
+#~ msgid_plural "%d K2 items processed"
+#~ msgstr[0] "%d élément K2 traité"
+#~ msgstr[1] "%d éléments K2 traités"
+
+#~ msgid "%d K2 comment processed"
+#~ msgid_plural "%d K2 comments processed"
+#~ msgstr[0] "%d commentaire K2 traité"
+#~ msgstr[1] "%d commentaires K2 traités"
+
+#~ msgid "%d K2 items imported"
+#~ msgstr "%d éléments K2 importés"
+
+#~ msgid "%d K2 comments imported"
+#~ msgstr "%d commentaires K2 importés"
+
+#~ msgid "Error:"
+#~ msgstr "Erreur :"
+
+#~ msgid "Users deleted"
+#~ msgstr "Utilisateurs supprimés"
+
+#~ msgid "%d user imported"
+#~ msgid_plural "%d users imported"
+#~ msgstr[0] "%d utilisateur importé"
+#~ msgstr[1] "%d utilisateurs importés"
+
+#~ msgid "Joomla K2 (FG)"
+#~ msgstr "Joomla K2 (FG)"
+
+#~ msgid "Import Joomla and K2 contents from a Joomla database into WordPress."
+#~ msgstr ""
+#~ "Importer le contenu de Joomla et de K2 depuis une base Joomla vers "
+#~ "WordPress."
+
+#~ msgid "Import Joomla K2 (FG)"
+#~ msgstr "Import Joomla K2 (FG)"
+
+#~ msgid ""
+#~ "This plugin will import Joomla content (sections, categories, posts, "
+#~ "images, attachments and users) and K2 content (items, categories, "
+#~ "comments, tags, images, attachments and custom fields) from a Joomla "
+#~ "database with the K2 component into WordPress."
+#~ msgstr ""
+#~ "Cette extension va importer le contenu de Joomla (sections, catégories, "
+#~ "articles, images, fichiers attachés et utilisateurs) et le contenu K2 "
+#~ "(éléments, catégories, commentaires, étiquettes, images, pièces jointes "
+#~ "et champs supplémentaires) depuis une base Joomla avec le composant K2 "
+#~ "vers WordPress."
+
+#~ msgid "%d user"
+#~ msgid_plural "%d users"
+#~ msgstr[0] "%d utilisateur"
+#~ msgstr[1] "%d utilisateurs"
+
+#~ msgid "WordPress database"
+#~ msgstr "Base de données WordPress"
+
+#~ msgid "Empty WordPress content"
+#~ msgstr "Supprimer le contenu de WordPress"
+
+#~ msgid "Joomla web site parameters"
+#~ msgstr "Paramètres du site Web Joomla"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Joomla version"
+#~ msgstr "Version de Joomla"
+
+#~ msgid "Joomla database parameters"
+#~ msgstr "Paramètres de la base Joomla"
+
+#~ msgid "Hostname"
+#~ msgstr "Serveur"
+
+#~ msgid "Port"
+#~ msgstr "Port"
+
+#~ msgid "Database"
+#~ msgstr "Nom de la base"
+
+#~ msgid "Username"
+#~ msgstr "Identifiant"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Joomla Table Prefix"
+#~ msgstr "Préfixe des table Joomla"
+
+#~ msgid "Behavior"
+#~ msgstr "Comportement"
+
+#~ msgid "Posts with a \"read more\" split:"
+#~ msgstr "Articles avec «Lire la suite» :"
+
+#~ msgid ""
+#~ "Checked: the Joomla introtext is imported into the excerpt. Unchecked: it "
+#~ "is imported into the post content with a «read more» link."
+#~ msgstr ""
+#~ "Coché : le texte d'introduction de Joomla est importé dans l'extrait. "
+#~ "Décoché : il est importé dans le contenu de l'article avec un lien «Lire "
+#~ "la suite»."
+
+#~ msgid "Import the text above the \"read more\" to the excerpt"
+#~ msgstr "Importer le texte d'introduction dans l'extrait"
+
+#~ msgid "Medias:"
+#~ msgstr "Médias :"
+
+#~ msgid "Skip media"
+#~ msgstr "Ne pas importer les médias"
+
+#~ msgid "Meta keywords:"
+#~ msgstr "Mots-clefs :"
+
+#~ msgid "Import meta keywords as tags"
+#~ msgstr "Importer les mots-clefs"
+
+#~ msgid "Create pages:"
+#~ msgstr "Créer des pages :"
+
+#~ msgid "Import as pages instead of blog posts (without categories)"
+#~ msgstr "Importer en tant que pages au lieu d'articles (sans les catégories)"
+
+#~ msgid "Import content from Joomla to WordPress"
+#~ msgstr "Importer le contenu de Joomla vers WordPress"
+
+#~ msgid "After the migration"
+#~ msgstr "Après la migration"
+
+#~ msgid "Modify internal links"
+#~ msgstr "Modifier les liens internes"
+
+#~ msgid ""
+#~ "If you found this plugin useful and it saved you many hours or days, "
+#~ "please rate it on <a href=\"http://wordpress.org/extend/plugins/fg-joomla-"
+#~ "to-wordpress/\">FG Joomla to WordPress</a>. You can also make a donation "
+#~ "using the button below."
+#~ msgstr ""
+#~ "Si vous avez trouvé cette extension utile et qu'elle vous a fait gagner "
+#~ "de nombreuses heures ou jours, merci de voter pour elle sur <a href="
+#~ "\"http://wordpress.org/extend/plugins/fg-joomla-to-wordpress/\">FG Joomla "
+#~ "to WordPress</a>. Vous pouvez aussi faire une donation en utilisant le "
+#~ "bouton ci-dessous."
+
+#~ msgid "Joomla (FG)"
+#~ msgstr "Joomla (FG)"
+
+#~ msgid ""
+#~ "Import categories, articles and medias (images, attachments) from a "
+#~ "Joomla database into WordPress."
+#~ msgstr ""
+#~ "Importer les catégories, articles et médias (images, fichiers attachés) "
+#~ "depuis une base Joomla vers WordPress."
+
+#~ msgid "Categories, tags, posts, pages and medias deleted"
+#~ msgstr "Catégories, mots-clefs, articles, pages et médias supprimés"
+
+#~ msgid "Couldn't delete content"
+#~ msgstr "Impossible de supprimer le contenu"
+
+#~ msgid "%d category imported"
+#~ msgid_plural "%d categories imported"
+#~ msgstr[0] "%d catégorie importée"
+#~ msgstr[1] "%d catégories importées"
+
+#~ msgid "%d page imported"
+#~ msgid_plural "%d pages imported"
+#~ msgstr[0] "%d page importée"
+#~ msgstr[1] "%d pages importées"
+
+#~ msgid "%d post imported"
+#~ msgid_plural "%d posts imported"
+#~ msgstr[0] "%d article importé"
+#~ msgstr[1] "%d articles importés"
+
+#~ msgid "%d media imported"
+#~ msgid_plural "%d medias imported"
+#~ msgstr[0] "%d média importé"
+#~ msgstr[1] "%d médias importés"
+
+#~ msgid "%d tag imported"
+#~ msgid_plural "%d tags imported"
+#~ msgstr[0] "%d mot-clef importé"
+#~ msgstr[1] "%d mots-clefs importés"
+
+#~ msgid "Don't forget to modify internal links."
+#~ msgstr "N'oubliez pas de modifier les liens internes."
+
+#~ msgid "%d internal link modified"
+#~ msgid_plural "%d internal links modified"
+#~ msgstr[0] "%d lien interne modifié"
+#~ msgstr[1] "%d liens internes modifiés"
+
+#~ msgid "Import Joomla (FG)"
+#~ msgstr "Import Joomla (FG)"
+
+#~ msgid ""
+#~ "This plugin will import sections, categories, posts and medias (images, "
+#~ "attachments) from a Joomla database into WordPress.<br />Compatible with "
+#~ "Joomla versions 1.5, 1.6, 1.7 and 2.5."
+#~ msgstr ""
+#~ "Cette extension va importer les sections, les catégories, les articles et "
+#~ "les médias (images, fichiers attachés) depuis une base Joomla vers "
+#~ "WordPress.<br />Compatible avec Joomla versions 1.5, 1.6, 1.7 et 2.5."
+
+#~ msgid "%d post"
+#~ msgid_plural "%d posts"
+#~ msgstr[0] "%d article"
+#~ msgstr[1] "%d articles"
+
+#~ msgid "%d page"
+#~ msgid_plural "%d pages"
+#~ msgstr[0] "%d page"
+#~ msgstr[1] "%d pages"
+
+#~ msgid "%d media"
+#~ msgid_plural "%d medias"
+#~ msgstr[0] "%d média"
+#~ msgstr[1] "%d médias"
+
+#~ msgid "%d tag"
+#~ msgid_plural "%d tags"
+#~ msgstr[0] "%d mot-clef"
+#~ msgstr[1] "%d mots-clefs"
+
+#~ msgid "Import Joomla Premium (FG)"
+#~ msgstr "Import Joomla Premium (FG)"
+
+#~ msgid "Images:"
+#~ msgstr "Images :"
+
+#, fuzzy
+#~ msgid "FG Joomla to WordPress"
+#~ msgstr "Importer le contenu de Joomla vers WordPress"
+
+#, fuzzy
+#~ msgid ""
+#~ "A plugin to migrate categories, posts and images from Joomla to WordPress"
+#~ msgstr ""
+#~ "Cette extension va importer les sections, les catégories, les articles et "
+#~ "les images depuis une base Joomla vers WordPress."

@@ -1,0 +1,29 @@
+/**
+ * -----------------------
+ * Neville Admin Styles
+ * -----------------------
+ */
+
+/**
+ * General
+ */
+.neville-none {
+	display: :none;
+}
+
+/**
+ * Widgets styles
+ */
+.neville-h4 {
+	border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 0.825em;
+	font-weight: 800;
+	margin-bottom: 0;
+}
+
+/**
+ * Widgets Page
+ */
+.widgets-php #widget-list div[id*=neville-section-] {
+	display: none !important;
+}

@@ -1,0 +1,146 @@
+/**
+ * Customizer Sections
+ */
+.neville-c-search {
+	background-color: #eeeeee !important;
+	box-shadow: inset 0 -1px 2px rgba(0,0,0,.1);
+}
+.neville-c-search > * {
+	opacity: 0;
+}
+.wp-customizer #available-widgets-list > div[class*="neville-section-"],
+.wp-customizer li[id*="customize-control-widget_neville-section-"] .move-widget {
+	display: none !important;
+}
+.wp-customizer #available-widgets-list.neville-c-display-widgets div.widget-tpl.neville-c-display-block {
+	display: block !important;
+}
+.wp-customizer #available-widgets-list.neville-c-display-widgets div.widget-tpl {
+	display: none !important;
+}
+
+/**
+ * Customizer sortable
+ */
+.neville-sortable-options-list li:not(.neville-sortable-options-hideme) {
+	box-sizing: border-box;
+	width: 100%;
+	background-color: white;
+	padding: 10px;
+	border: 1px solid #e1e1e1;
+	position: relative;
+	margin-bottom: 1px;
+}
+.neville-sortable-options-list li:not(.neville-sortable-options-hideme) i {
+	cursor: move;
+	position: absolute;
+	top: 50%;
+	right: 10px;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+/**
+ * Widgets styles
+ */
+.neville-h4 {
+	border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 0.825em;
+	font-weight: 800;
+	margin-bottom: 0;
+}
+
+/**
+ * Info Control
+ */
+.neville-control-info {
+	background-color: #fff;
+	border: 1px solid #e1e1e1;
+	padding: 1em;
+	border-radius: 4px;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.05);
+	position: relative;
+}
+.neville-m-t {
+	margin-top: 1.222em;
+}
+.neville-m-b {
+	margin-bottom: 1.222em;
+}
+.neville-control-info:after, .neville-control-info:before {
+	top: 100%;
+	left: 10%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+.neville-control-info.no-pointer:after, .neville-control-info.no-pointer:before {
+	display: none;
+}
+.neville-control-info:after {
+	border-color: rgba(255, 255, 255, 0);
+	border-top-color: #fff;
+	border-width: 8px;
+	margin-left: -8px;
+}
+.neville-control-info:before {
+	border-color: rgba(225, 225, 225, 0);
+	border-top-color: #e1e1e1;
+	border-width: 9px;
+	margin-left: -9px;
+}
+.neville-control-info > :last-child {
+	margin-bottom: 0;
+}
+.neville-control-info-label {
+	position: relative;
+	padding-right: 40px;
+}
+.neville-control-info-label:after {
+	font-family: dashicons;
+	line-height: 1.2;
+	vertical-align: middle;
+}
+.neville-control-info-label .dashicons {
+	position: absolute;
+	top: 0.122em;
+	right: 0;
+	opacity: 0.5;
+}
+.neville-control-info-description {
+	border-top: 1px solid #e1e1e1;
+	padding-top: 1em;
+}
+
+/**
+ * Recommend Control
+ */
+.notice-neville-installer {
+	border-bottom: 1px solid #eee;
+	overflow: hidden;
+	padding: 0 14px;
+	background-color: #f6f6f6;
+}
+
+/**
+ * Pro section
+ */
+#customize-controls .control-section-neville-pro-section .accordion-section-title:hover,
+#customize-controls .control-section-neville-pro-section .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-neville-pro-section .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+.rtl .control-section-neville-pro-section .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
